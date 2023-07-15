@@ -17,6 +17,7 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+<<<<<<< HEAD
 
 
 3-print_alphabets.c
@@ -41,3 +42,5 @@ char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	return (0);
 }
 
+=======
+>>>>>>> c33d088043d1bba617d7d6e921573537fc238d1a
