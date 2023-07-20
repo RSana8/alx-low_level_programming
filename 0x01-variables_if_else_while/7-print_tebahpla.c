@@ -16,6 +16,7 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+<<<<<<< HEAD
 
 
 8-print_base16.c
@@ -42,3 +43,5 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+=======
+>>>>>>> b034159454fa46fdef11ee332ce22c09129353bd
