@@ -8,7 +8,7 @@ Learning about nested loops in **C language**.
 * Tested on Ubuntu 14.04 LTS
 
 ## Files
-The below files are programs written in C:
+All of the following files are programs written in C:
 
 | Filename | Description |
 | -------- | ----------- |
