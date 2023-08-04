@@ -1,6 +1,5 @@
 !<arch>
-0-isupper.c/    0           0     0     644     188       `
-
+0-isupper.c/    0           0     0     644     187       `
 #include "main.h"
 
 /**
@@ -17,6 +16,7 @@ int _isupper(int c)
 	else
 		return (0);
 }
+
 0-memset.c/     0           0     0     644     370       `
 #include "main.h"
 /**
@@ -83,7 +83,7 @@ char *_strcat(char *dest, char *src)
 	dest[i] = '\0';
 	return (dest);
 }
-100-atoi.c/     0           0     0     644     427       `
+100-atoi.c/     0           0     0     644     428       `
 #include "main.h"
 
 /**
@@ -221,7 +221,7 @@ int _strlen(char *s)
 
 	return (longi);
 }
-2-strncpy.c/    0           0     0     644     331       `
+2-strncpy.c/    0           0     0     644     330       `
 #include "main.h"
 /**
  * _strncpy - copy a string
@@ -249,8 +249,6 @@ char *_strncpy(char *dest, char *src, int n)
 
 	return (dest);
 }
-
-
 3-islower.c/    0           0     0     644     202       `
 #include "main.h"
 
